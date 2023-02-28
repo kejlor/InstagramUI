@@ -31,7 +31,7 @@ struct TabBar: View {
                         Image(systemName: "handbag")
                     }
                 
-                Image(systemName: "person.crop.circle")
+                ProfileView()
                     .tabItem {
                         Image(systemName: "person.crop.circle")
                     }

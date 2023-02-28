@@ -13,7 +13,11 @@ Images and text are plain data.
 1. Woman photo by Tim Douglas from Pexels - [a link](https://www.pexels.com/pl-pl/zdjecie/restauracja-kobieta-kelner-kawiarnia-6205635/)
 
 ### Screenshots
+<br>
 Home screen:
+<br>
 <img src="Images/home.png">
+<br>
 Profile screen:
+<br>
 <img src="Images/profile.png">
